@@ -1,6 +1,7 @@
 # gmod
 
-nova | dev
+nova | owner - dev
+https://discord.gg/VsAZth7sJf
 
 ## code (since 2024)
 
