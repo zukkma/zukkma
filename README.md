@@ -1,14 +1,19 @@
 # gmod
 
-nova | owner - dev
-https://discord.gg/VsAZth7sJf
+one | founder & dev
+https://discord.gg/QvYbyEARWh
 
-## code (since 2024)
+## code
 
 * lua
 * python
+* css
+* js
+* html
+* sql
 
 ## kpop
 
 * aespa
 * new jeans
+* red velvet 
