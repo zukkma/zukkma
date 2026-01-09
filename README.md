@@ -1,7 +1,6 @@
 # gmod
 
 one | founder & dev
-https://discord.gg/QvYbyEARWh
 
 ## code
 
