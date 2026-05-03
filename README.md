@@ -8,10 +8,7 @@ nova | owner
 
 * lua
 * python
-* css
-* js
-* html
-* sql
+* frontend skills
 
 ## kpop
 
